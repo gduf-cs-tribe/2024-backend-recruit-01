@@ -267,7 +267,7 @@
   * 2860689098@qq.com
 * 咨询群：
 
-![image-20250124163538587](C:\Users\13411\AppData\Roaming\Typora\typora-user-images\image-20250124163538587.png)
+![image-20250124163538587]([C:\Users\13411\AppData\Roaming\Typora\typora-user-images\image-20250124163538587.png](https://github.com/gduf-cs-tribe/2024-backend-recruit-01/blob/main/picture.jpg))
 
 * 注意：**请问一些有营养，值得回答的问题，有些问题可能不会收到回复**。问问题的方式参考：[《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 
